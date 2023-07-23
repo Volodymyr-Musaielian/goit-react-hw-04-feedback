@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  list-style: none;
+  gap: 15px;
+}
+
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.btn {
+  background-color: white;
+  border-radius: 15%;
+  border: 1px solid grey;
+  font-size: 15px;
+}
